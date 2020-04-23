@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_elements_texts",
+  "info": {
+    "name": "Text",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "TextContent": {
+      "type": "richtext",
+      "required": true
+    },
+    "IsTwoColumns": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
